@@ -1,5 +1,5 @@
 # Ultimate Football League
-========
+--------
 
 The Ultimate Football League is a computer program made from C+ using DevC++. This was my first software project into the computing verse. At that time I was very fond of Football so I thought of making a football realted project. At that time there we not really good football apps and non whatsoever on our country marketspace so I thought of giving it a go.<br />
 This application is a simulator for 0 different football teams. We an add the teams on the program and it automatically orders it in alphabetically the first time but when the scores start to kick in, then it orders it in the point system. After some matches the top 4 teams go into the knockout phase which is 1 legged. The winner of the final match is greeted with a congratulation. <br />
