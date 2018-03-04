@@ -34,9 +34,9 @@ Install Dev C++ and run the ultimatefootballleague.cpp file
 ## Contribute
 ----------
 
-- Issue Tracker: github.com/codexponent/ultimatefootballleague/issues
-- Source Code: github.com/codexponent/ultimatefootballleague
-- Contributors: github.com/codexponent/ultimatefootballleague/contributors.txt
+- Issue Tracker: https://github.com/codexponent/ultimatefootballleague/issues
+- Source Code: https://github.com/codexponent/ultimatefootballleague
+- Contributors: https://github.com/codexponent/ultimatefootballleague/contributors.txt
 
 ## Support
 -------
