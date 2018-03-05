@@ -46,4 +46,4 @@ I have a mailing list located at: sulabh4@hotmail.com
 
 ## Copyright and License
 
-Copyright 2018 Codexponent. Code released under the [MIT]license.
+Copyright 2018 Codexponent. Code released under the [MIT] license.
