@@ -1,0 +1,25 @@
+var NAVTREEINDEX0 =
+{
+"_ultimate_01_football_01_league_8cpp.html":[2,0,0,0],
+"_ultimate_01_football_01_league_8cpp.html#a840291bc02cba5474a4cb46a9b9566fe":[2,0,0,0,1],
+"_ultimate_01_football_01_league_8cpp.html#af67480724089637b55a8148566870f16":[2,0,0,0,2],
+"annotated.html":[1,0],
+"classes.html":[1,1],
+"dir_d146bd27cdba5187419e9c8e780e44bd.html":[2,0,0],
+"files.html":[2,0],
+"functions.html":[1,2,0],
+"functions_vars.html":[1,2,1],
+"globals.html":[2,1,0],
+"globals_func.html":[2,1,1],
+"index.html":[],
+"md__c_1__users__l_e_n_o_v_o__downloads_ultimatefootballleague-master__r_e_a_d_m_e.html":[0],
+"pages.html":[],
+"structfootball.html":[1,0,0],
+"structfootball.html#a0838f444076fd2cc419ceb5f26984ead":[1,0,0,5],
+"structfootball.html#a141822e75c49e4a0d7e97ea82f234953":[1,0,0,3],
+"structfootball.html#a4e37cc20b38f8fd65927763be1402535":[1,0,0,1],
+"structfootball.html#a66b98f1c1530c558655c69a5ddf8b746":[1,0,0,4],
+"structfootball.html#aa14256b5be130d41114e88fea0e1f7a6":[1,0,0,2],
+"structfootball.html#ab8e4d13ae3b4fa7398e0c31ebea34a67":[1,0,0,0],
+"structfootball.html#addfb7d46f686fdff095170a41d9c3560":[1,0,0,6]
+};

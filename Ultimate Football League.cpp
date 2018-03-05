@@ -4,6 +4,9 @@
 #include<stdlib.h>
 #include<time.h>
 #include<ctype.h>
+/**
+ * Shows the menu on the start
+ */
 void show_menu()
 {
 	printf("\t\t\tUltimate Football League\n");
@@ -11,16 +14,22 @@ void show_menu()
 	printf("Team's Name Must Be At Least Greater Than 8 Characters\n");
 	printf("Nationality Name Must be At Most 5 Characters\n");
 }
+/**
+ * Structure of the object
+ */
 struct football 
 {
-	char name[50];
-	char nation[50];
-	int ranking=0;
-	int points=0;
-	int goals=0;
-	int score=0;
-	int point1=0;
+	char name[50];  /*!< Name of the Club */
+	char nation[50]; /*!< Nationality of the Club */ 
+	int ranking=0; /*!< Ranking of the Club */ 
+	int points=0; /*!< Points of the Club */ 
+	int goals=0; /*!< Goals of the Club */ 
+	int score=0; /*!< Score of the Club */ 
+	int point1=0; /*!< Points of the Club */ 
 };
+/**
+ * Main Method
+ */
 int main (void)
 {	
 	struct football f[10];
